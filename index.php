@@ -1,2 +1,2 @@
 <?php
-echo 'hello dockers';
+echo 'hello docker';
